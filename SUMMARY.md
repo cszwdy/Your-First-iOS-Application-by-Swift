@@ -9,6 +9,7 @@
    * Paws－优秀的 Web API 管理与测试工具
    * Form－连线式交互设计工具
    * cocoaPods－优秀的三方依赖库管理工具
+   * Reveal－UI 界面调试利器
 * 着手开始之前
    * 使用 scrum ＋ github 管理项目
    * 代码风格
