@@ -5,6 +5,7 @@
    * mockingBot－优秀的在线移动端交互原型设计工具
    * Cmd Markdown－国内最好的 Markdown 写作工具
    * Sketch－新一代 UI 设计利器
+   * Charls－模拟不同网络环境的工具
 * 设计你的原型
 * 构建你的程序
 * 测试你的应用
