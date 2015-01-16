@@ -21,6 +21,7 @@
    * 三个是否
        * 是否使用 StoryBoard、Autolayout、Size Classes
        * 是否使用测试驱动开发
+       * 是否使用函数式编程
    * 是否使用函数式编程
    * 根据交互原型搭建应用整体结构
        * Model 层
