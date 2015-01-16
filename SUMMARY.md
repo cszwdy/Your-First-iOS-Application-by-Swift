@@ -13,6 +13,7 @@
 * 着手开始之前
    * 使用 scrum ＋ github 管理项目
    * 代码风格
+   * 使用 Cmd Markdown 编写文档
 * 设计你的原型
    * 使用 MockingBot 设计交互原型
    * 依据人机交互原则修改交互原型
