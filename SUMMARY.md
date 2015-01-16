@@ -42,6 +42,7 @@
    * 上传 IPA 文件
        * 使用 Xcode 上传
        * 使用 Application Loader 上传
+   * 在 iTunes connect 上填写应用信息
 * 等待应用审核
 * 迭代你的应用
    * 在 iTunes Connect 上创建新版本
