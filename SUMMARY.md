@@ -19,6 +19,7 @@
    * 使用 Form 制作特殊交互效果
 * 构建你的程序
    * 三个是否
+       * 是否使用 StoryBoard、Autolayout、Size Classes
    * 是否使用 StoryBoard、Autolayout、Size Classes
    * 是否使用测试驱动开发
    * 是否使用函数式编程
