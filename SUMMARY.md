@@ -22,7 +22,6 @@
    * 根据交互原型搭建应用整体结构
        * Model 层
        * 可复用的 View 层
-   * 是否使用 StoryBoard、Autolayout、Size Classes
 * 测试你的应用
 * 上传你的应用
 * 迭代你的应用
